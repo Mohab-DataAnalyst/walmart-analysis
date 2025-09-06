@@ -1,5 +1,5 @@
 ![Logo](https://assets1.storebrands.com/images/v/max_width_640/sb/2023-07/walmart.jpg)
-# 🛒 Walmart Sales Analysis
+# 🛒 Self-Directed Walmart Sales Analysis (Python)
 
 ## 📌 Project Overview
 This self-directed project is part of my Elevvo Internship, and it analyzes Walmart’s weekly sales data to uncover key trends, seasonality, and performance insights at the store and department levels.  
